@@ -9,7 +9,7 @@ The First Submission on Belajar Fundamental Aplikasi Android (BFAA) class Dicodi
     <tr>
         <td><img src="screenshot/github.gif" align="center" alt="4"</td>
         <td><img src="screenshot/splash.jpg" align="center" alt="4"</td>
-        <td><img src="screenshot/home.gif" align="center" alt="4"</td>
+        <td><img src="screenshot/home.jpg" align="center" alt="4"</td>
     </tr>
     <tr>
         <td><img src="screenshot/followers.jpg" align="center" alt="4"</td>
