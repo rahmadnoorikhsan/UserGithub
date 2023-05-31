@@ -4,7 +4,7 @@ The First Submission on Belajar Fundamental Aplikasi Android (BFAA) class Dicodi
 > **Warning**
 > USE THIS PROJECT AS A REFERENCE FOR YOUR SUBMISSION. DO NOT SEND OR COPY PASTE THIS PROJECT FOR YOUR SUBMISSION!
 
-## The First Submission Screenshots :
+## The Final Submission Screenshots :
 <table>
     <tr>
         <td><img src="screenshot/github.gif" align="center" alt="4"</td>
